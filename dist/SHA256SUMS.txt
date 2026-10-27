@@ -1,0 +1,2 @@
+f1465f3c04cc3ee934bbcb46ff7dc1ec34076ade7517998010998ab47d372f1b  android/WordContacts.apk
+9434beac7cd9207ab49c8652b7e4e598e8f5f5463828f8d8cc343cab75b2428a  source/WordContacts_Source.zip

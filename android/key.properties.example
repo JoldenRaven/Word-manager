@@ -1,0 +1,6 @@
+# Copy to key.properties only when configuring a private release key.
+# Never commit key.properties or a keystore.
+storeFile=/absolute/path/to/private-release.jks
+storePassword=REPLACE_LOCALLY
+keyAlias=release
+keyPassword=REPLACE_LOCALLY

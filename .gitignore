@@ -1,0 +1,15 @@
+.dart_tool/
+.flutter-plugins*
+.packages
+build/
+dist/
+*.db
+*.db-*
+android/key.properties
+*.keystore
+*.jks
+.idea/
+*.iml
+android/.gradle/
+android/local.properties
+windows/flutter/ephemeral/
